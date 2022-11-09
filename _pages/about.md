@@ -9,6 +9,7 @@ profile:
   image: prof.png
   image_circular: false # crops the image to make it circular
   address: >
+    <a href='https://orcid.org/my-orcid?orcid=0000-0001-6541-1933'>0000-0001-6541-1933</a>
     <p>Lund Observatory,</p>
     <p>Sölvegatan 27,</p>
     <p>Lund, Sweden</p>
