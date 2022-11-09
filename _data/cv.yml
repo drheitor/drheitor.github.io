@@ -2,31 +2,37 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Heitor Ernandes
     - name: Date of Birth
-      value: 14th March 1879
+      value: 07th February 1995
     - name: Languages
-      value: English, German
+      value: English, Portuguese, French
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Universidade de São Paulo, Brazil
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Abundances in field and globular clusters stars of the Galactic bulge.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - <u>Advisor:</u> Beatriz Barbuy
+            - Fellowship from CAPES
+            
+    - title: Sandwich Ph.D.
+      institution: University of Edinburgh Astronomy
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - title: Abundances in field and globular clusters stars of the Galactic bulge.
+          contents:
+            - <u>Advisor:</u> Chris Evans
+            - Fellowship from CAPES
+            
+    - title: B.Sc.in Physics.
+      institution: Universidade de São Paulo
+      year: 2018
+      
 
 - title: Experience
   type: time_table
@@ -68,16 +74,6 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
