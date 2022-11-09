@@ -2,28 +2,18 @@
 layout: about
 title: about
 permalink: /
-<<<<<<< HEAD
 subtitle: <a href='https://www.lu.se/lucat/user/d740df968031d4c9ed49302e775a435f'>Affiliations</a>. Postdoc Researcher at Lunds Universitet.
-=======
-subtitle: <a href='#'>Affiliations</a>. Posdoc at Lund University .
->>>>>>> parent of dceb089 (test [ci skip])
 
 profile:
   align: right
   image: prof.png
   image_circular: false # crops the image to make it circular
   address: >
-<<<<<<< HEAD
     <p>Lund Observatory,</p>
     <p>Sölvegatan 27,</p>
     <p>Lund, Sweden</p>
     
     
-=======
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Lund, Sweden</p>
->>>>>>> parent of dceb089 (test [ci skip])
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
