@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /physics/
+permalink: /teaching/
 title: physics
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
