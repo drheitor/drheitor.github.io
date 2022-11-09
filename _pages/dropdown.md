@@ -5,7 +5,7 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
+    - title: congress
       permalink: /congress/
     - title: divider
     - title: projects
