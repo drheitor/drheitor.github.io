@@ -78,16 +78,20 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Galactic Archaeology
       items:
-        - Description 1.
-        - Description 2.
+        - Chemical tagging
+        - Chemodynamics
+    - title: Milky Way
+      items:
+        - Bulge
+        - Globular Clusters
+    - title: Nucleosynthesis
+      items:
+        - Ironpeak elements
+        - Heavy elements
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Running , bibliophilism , Play MTG.
