@@ -1,6 +1,6 @@
 ---
 layout: page
-title: consortia
+title: Consortia
 permalink: /consortia/
 description: A growing collection of your cool projects.
 nav: true
