@@ -1,12 +1,7 @@
-- title: Coferences
+- title: Congress
   type: time_table
   contents:
-    - title: PhD
-      institution: Universidade de São Paulo, Brazil
-      year: 2022
-      description:
-        - title: Abundances in field and globular clusters stars of the Galactic bulge.
-          contents:
-            - <u>Advisor:</u> Beatriz Barbuy
-            - Fellowship from CAPES
+    - title: <u>Congress:</u> Congresso de Física Paulo Leal
+      institution: ICTP-SAIFR
+      year: 2016
             
