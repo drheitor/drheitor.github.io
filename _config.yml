@@ -67,11 +67,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: https://github.com/drheitor/ # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: https://scholar.google.com/citations?user=bSeKvCYAAAAJ&hl=en&oi=ao # your Google Scholar ID
+scholar_userid: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5LtdMVyDIYRYn5xcihTfw2bFqQ_7-IIUOAF-N8K9cCyX4lKDWV6xWpVOlaPjK7IDjoRFwKYU8q4zGXXZ9Q49U3JGBvVA&user=xJ0Hh98AAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id: https://orcid.org/0000-0001-6541-1933 # your ORCID ID
 medium_username: # your Medium username
@@ -79,7 +79,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: http://lattes.cnpq.br/1176217608010013# work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
