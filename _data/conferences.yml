@@ -1,69 +1,87 @@
-- title: Conferences
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Heitor Ernandes
+    - name: Date of Birth
+      value: 07th February 1995
+    - name: Languages
+      value: English, Portuguese, French
+
+- title: Education
   type: time_table
   contents:
-    - title: <u>Workshop:</u> The Future of MOS Technologies
-      institution: Virtual
-      year: 2021
-      
-    - title: <u>School:</u>   JWST-UFRGS
-      institution: UFRGS
-      year: 2020
-      
-    - title: <u>Meeting:</u> Pristine Group Meeting
-      institution: International Space Science Institute ISSI
-      year: 2020
-  
-    - title: <u>School:</u> Escola Dark Matter and Neutrinos
-      institution: ICTP-SAIFR
-      year: 2018
-  
-    - title: <u>Congress:</u> IAU XXX
-      institution: Universität Wien
-      year: 2018
-      
-    - title: <u>Congress:</u> SAB
-      institution: IAG-USP
-      year: 2018
-     
-    - title: <u>Congress:</u> The Galactic Bulge at the crossroads
-      institution: IAG-USP
-      year: 2018
+    - title: PhD
+      institution: Universidade de São Paulo, Brazil
+      year: 2022
       description:
-        -title: <u>Poster:</u>: Terzan 9 a MUSE analysis.
-      
-    - title: <u>Congress:</u> SAB
-      institution: IAG-USP
-      year: 2017
-      
-    - title: <u>Symposium:</u> SIICUSP
-      institution: IAG-USP
-      year: 2016
-      description:
-        - title: <u>Poster:</u>: SODIUM-OXYGEN ANTICORRELATION AMONG HORIZONTAL BRANCH STARS IN THE GLOBULAR CLUSTER
-  
-    - title: <u>Congress:</u> Colóquio internacional ASSOS 12
-      institution: IAG-USP
-      year: 2016
-      
-    - title: <u>Congress:</u> Congresso de Física Paulo Leal
-      institution: ICTP-SAIFR
-      year: 2016
-      
-    - title: <u>School:</u> Spectroscopy in Astrophysics and Laboratory Plasmas
-      institution: ICTP-SAIFR
-      year: 2016
-        
-    - title: <u>Symposium:</u> SIICUSP
-      institution: IAG-USP
-      year: 2015
-      description:
-        - title: <u>Poster:</u>: Abundância de elementos do pico do ferro em aglomerados globulares
-        
-    - title: <u>Workshop:</u> Neutrino e Astrofísica
-      institution: Institute of Advanced Studies iea-USP
-      year: 2014
-    
-
+        - title: Abundances in field and globular clusters stars of the Galactic bulge.
+          contents:
+            - <u>Advisor:</u> Beatriz Barbuy
+            - Fellowship from CAPES
             
+    - title: Sandwich Ph.D.
+      institution: University of Edinburgh Astronomy
+      year: 2020
+      description:
+        - title: Abundances in field and globular clusters stars of the Galactic bulge.
+          contents:
+            - <u>Advisor:</u> Chris Evans
+            - Fellowship from CAPES
+            
+    - title: B.Sc.in Physics.
+      institution: Universidade de São Paulo
+      year: 2018
       
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoc
+      institution: Lund Observatory, Lunds Univertet, Sweden
+      year: 2022
+      Advisor:
+        - Sofia Feltzing
+        - Fellowship from KAW
+
+    - title: Ph.D. student
+      institution: Universidade de São Paulo, Brazil
+      year: 2018 - 2022
+      Advisor:
+        - Beatriz Barbuy
+        - Fellowship from CAPES
+
+    - title: Ph.D. sutdent
+      institution: University of Edinburgh Astronomy, UK
+      year: 2019 - 2020
+      Advisor:
+        - Chris Evans
+        - Fellowship from CAPES
+
+    - title: Invited student at ESO
+      institution: ESO, Chile
+      year: 2017 - 2017
+      Advisor:
+        - Bruno Dias
+        - Support from ESO
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Galactic Archaeology
+      items:
+        - Chemical tagging
+        - Chemodynamics
+    - title: Milky Way
+      items:
+        - Bulge
+        - Globular Clusters
+    - title: Nucleosynthesis
+      items:
+        - Ironpeak elements
+        - Heavy elements
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Running , bibliophilism , Play MTG.
