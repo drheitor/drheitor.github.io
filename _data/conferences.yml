@@ -1,3 +1,13 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Heitor Ernandes
+    - name: Date of Birth
+      value: 07th February 1995
+    - name: Languages
+      value: English, Portuguese, French
+      
 - title: Education
   type: time_table
   contents:
@@ -70,8 +80,3 @@
       items:
         - Ironpeak elements
         - Heavy elements
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Running , bibliophilism , Play MTG.
