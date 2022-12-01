@@ -13,7 +13,7 @@
       institution: IAG-USP
       year: 2018
       description:
-        -title: <u>Poster:</u> Terzan 9 a MUSE analysis
+        -<u>Poster:</u> Terzan 9 a MUSE analysis
         
     - title: <u>Congress:</u> SAB
       institution: IAG-USP
@@ -27,4 +27,54 @@
       institution: ICTP-SAIFR
       year: 2016
     
-            
+- title: Meeting
+  type: time_table
+  contents:
+    - title: Pristine Group Meeting
+      institution: International Space Science Institute ISSI
+      year: 2020
+       
+       
+- title: Workshop
+  type: time_table
+  contents:
+    - title: The Future of MOS Technologies
+      institution: Virtual
+      year: 2021
+      
+    - title: Neutrino e Astrofísica
+      institution: Institute of Advanced Studies iea-USP
+      year: 2014
+      
+ 
+
+- title: School
+  type: time_table
+  contents:
+    - title: <u>School:</u>   JWST-UFRGS
+      institution: UFRGS
+      year: 2020
+    - title:  Dark Matter and Neutrinos
+      institution: ICTP-SAIFR
+      year: 2018
+    - title: Spectroscopy in Astrophysics and Laboratory Plasmas
+      institution: ICTP-SAIFR
+      year: 2016
+ 
+ 
+ 
+- title: Symposium
+  type: time_table
+  contents:
+  
+    - title: SIICUSP
+      institution: IAG-USP
+      year: 2016
+      description:
+        - <u>Poster:</u> SODIUM-OXYGEN ANTICORRELATION AMONG HORIZONTAL BRANCH STARS IN THE GLOBULAR CLUSTER
+  
+    - title: SIICUSP
+      institution: IAG-USP
+      year: 2015
+      description:
+        - <u>Poster:</u> Abundância de elementos do pico do ferro em aglomerados globulares
