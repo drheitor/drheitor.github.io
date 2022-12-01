@@ -1,7 +1,7 @@
 ---
 layout: conferences
 permalink: /conferences/
-title: conferences
+title: Conferences
 nav: true
 nav_order: 5
 ---
