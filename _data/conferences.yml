@@ -1,7 +1,30 @@
 - title: Congress
   type: time_table
   contents:
+    - title: <u>Congress:</u> IAU XXX
+      institution: Universität Wien
+      year: 2018
+      
+    - title: <u>Congress:</u> SAB
+      institution: IAG-USP
+      year: 2018
+      
+    - title: <u>Congress:</u> The Galactic Bulge at the crossroads
+      institution: IAG-USP
+      year: 2018
+      description:
+        -title: <u>Poster:</u>: Terzan 9 a MUSE analysis.
+        
+    - title: <u>Congress:</u> SAB
+      institution: IAG-USP
+      year: 2017
+      
+    - title: <u>Congress:</u> Colóquio internacional ASSOS XII
+      institution: IAG-USP
+      year: 2016
+      
     - title: <u>Congress:</u> Congresso de Física Paulo Leal
       institution: ICTP-SAIFR
       year: 2016
+    
             
