@@ -38,7 +38,7 @@
     - title: <u>Symposium:</u> SIICUSP
       institution: IAG-USP
       year: 2016
-      description
+      description:
         - title: <u>Poster:</u>: SODIUM-OXYGEN ANTICORRELATION AMONG HORIZONTAL BRANCH STARS IN THE GLOBULAR CLUSTER
   
     - title: <u>Congress:</u> Colóquio internacional ASSOS 12
@@ -56,7 +56,7 @@
     - title: <u>Symposium:</u> SIICUSP
       institution: IAG-USP
       year: 2015
-      description
+      description:
         - title: <u>Poster:</u>: Abundância de elementos do pico do ferro em aglomerados globulares
         
     - title: <u>Workshop:</u> Neutrino e Astrofísica
