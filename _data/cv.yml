@@ -40,29 +40,29 @@
     - title: Postdoc
       institution: Lund Observatory, Lunds Univertet, Sweden
       year: 2022
-      Advisor:
-        - Sofia Feltzing
+      description:
+        - <u>Supervisor:</u> Sofia Feltzing
         - Fellowship from KAW
 
     - title: Ph.D. student
       institution: Universidade de São Paulo, Brazil
       year: 2018 - 2022
-      Advisor:
-        - Beatriz Barbuy
+      description:
+        - <u>Advisor:</u> Beatriz Barbuy
         - Fellowship from CAPES
 
     - title: Ph.D. sutdent
       institution: University of Edinburgh Astronomy, UK
       year: 2019 - 2020
-      Advisor:
-        - Chris Evans
+      description:
+        - <u>Advisor:</u> Chris Evans
         - Fellowship from CAPES
 
     - title: Invited student at ESO
       institution: ESO, Chile
       year: 2017 - 2017
-      Advisor:
-        - Bruno Dias
+      description:
+        - <u>Supervisor:</u> Bruno Dias
         - Support from ESO
 
 - title: Academic Interests
