@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: A collection of your cool projects.
+title: Consortium
+permalink: /consortium/
+description: Consortia 
 nav: true
 nav_order: 2
 display_categories: [work, fun]
