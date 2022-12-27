@@ -3,6 +3,7 @@ layout: page
 title: CUBES
 description: Cassegrain U-Band Efficient Spectrograph
 img: assets/img/CUBES.png
+redirect: https://cubes.inaf.it
 importance: 1
 category: work
 ---
