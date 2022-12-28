@@ -1,11 +1,11 @@
 ---
 layout: page
-title: CUBES
-description: Cassegrain U-Band Efficient Spectrograph
+title: CUBES-ESO
+description: Cassegrain U-Band Efficient Spectrograph for VLT
 img: assets/img/CUBESeso.png
 redirect: https://cubes.inaf.it
 importance: 1
-category: work
+category: consortium
 ---
 
 
