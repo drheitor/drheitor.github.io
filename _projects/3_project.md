@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: ANDES-ESO
+description: ArmazoNes high Dispersion Echelle Spectrograph for ESO-ELT
+img: assets/img/ANDES.png
+redirect: https://elt.eso.org/instrument/ANDES/
 importance: 3
 category: consortium
 ---
