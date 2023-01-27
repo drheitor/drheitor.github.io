@@ -3,6 +3,8 @@ layout: page
 title: Contact
 permalink: /Contact/
 description: Do not hesitate to contact me
+nav: true
+nav_order: 6
 
 subtitle: <a href='https://www.lu.se/lucat/user/d740df968031d4c9ed49302e775a435f'>Affiliations</a>. Postdoc Researcher at Lunds Universitet.
 
