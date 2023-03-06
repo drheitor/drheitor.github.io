@@ -9,7 +9,7 @@ profile:
   image: prof.png
   image_circular: false # crops the image to make it circular
   address: >
-    <a href='https://www.lu.se/lucat/user/d740df968031d4c9ed49302e775a435f'>Affiliations</a>
+    <p><a href='https://www.lu.se/lucat/user/d740df968031d4c9ed49302e775a435f'>Affiliations</a></p>
     <a href='https://orcid.org/0000-0001-6541-1933'>0000-0001-6541-1933</a>
     <p>Lund Observatory,</p>
     <p>Sölvegatan 27,</p>
