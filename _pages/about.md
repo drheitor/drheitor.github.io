@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.lu.se/lucat/user/d740df968031d4c9ed49302e775a435f'>Affiliations</a>. 
-<a href='https://www.geology.lu.se/heitor-ernandes'>Postdoc</a> at Lunds Universitet.
+subtitle: <a href='https://www.geology.lu.se/heitor-ernandes'>Postdoc</a> at Lunds Universitet.
 
 profile:
   align: right
   image: prof.png
   image_circular: false # crops the image to make it circular
   address: >
+    <a href='https://www.lu.se/lucat/user/d740df968031d4c9ed49302e775a435f'>Affiliations</a>
     <a href='https://orcid.org/0000-0001-6541-1933'>0000-0001-6541-1933</a>
     <p>Lund Observatory,</p>
     <p>Sölvegatan 27,</p>
