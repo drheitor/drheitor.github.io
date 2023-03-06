@@ -19,10 +19,9 @@ profile:
     
 ---
 
-Mail: Sölvegatan 27 222 23, Lund Sweden
-Primary   e-mail: heitor.ernandes@geol.lu.se
-Secondary e-mail: heitor.ernandes@alumni.usp.br
+<p> Mail: Sölvegatan 27 222 23, Lund Sweden </p>
+<p>Primary   e-mail: heitor.ernandes@geol.lu.se </p>
+<p>Secondary e-mail: heitor.ernandes@alumni.usp.br </p>
 
-Twitter: drheitor1
 
 
