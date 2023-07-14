@@ -1,6 +1,14 @@
 - title: Congress
   type: time_table
   contents:
+    - title: <u>Congress:</u> IAUS 379 Dynamical Masses of Local Group Galaxies
+      institution: AIP - Potsdam, Germany
+      year: 2023
+           
+    - title: <u>Congress:</u> EAS 2023
+      institution: Kraków, Poland (Virtual)
+      year: 2023
+      
     - title: <u>Congress:</u> IAU XXX
       institution: Universität Wien
       year: 2018
@@ -27,13 +35,6 @@
       institution: ICTP-SAIFR
       year: 2016
       
-    - title: <u>Congress:</u> IAUS 379 Dynamical Masses of Local Group Galaxies
-      institution: AIP - Potsdam, Germany
-      year: 2023
-           
-    - title: <u>Congress:</u> EAS 2023
-      institution: Kraków, Poland (Virtual)
-      year: 2023
     
 - title: Meeting
   type: time_table

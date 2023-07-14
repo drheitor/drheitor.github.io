@@ -19,6 +19,7 @@
           contents:
             - <u>Advisor:</u> Beatriz Barbuy
             - Fellowship from CAPES
+            - <u>(Nominated)</u> CAPES Prize for the best thesis in Physics and Astronomy in 2022
             
     - title: Sandwich Ph.D.
       institution: University of Edinburgh Astronomy
@@ -58,12 +59,24 @@
         - <u>Advisor:</u> Chris Evans
         - Fellowship from CAPES
 
+- title: Visiting Faculty
+  type: time_table
+  contents:  
+    - title: Invited Postdoc at MPIA
+      institution: MPIA, Heidelberg
+      year: 2023 - 2023
+      description:
+        - <u>Supervisor:</u> Maria Bergemann
+        - MPIA
+        
     - title: Invited student at ESO
       institution: ESO, Chile
       year: 2017 - 2017
       description:
         - <u>Supervisor:</u> Bruno Dias
         - Support from ESO
+        
+        
 
 - title: Academic Interests
   type: nested_list
