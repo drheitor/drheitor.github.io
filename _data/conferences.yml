@@ -26,6 +26,14 @@
     - title: <u>Congress:</u> Congresso de Física Paulo Leal
       institution: ICTP-SAIFR
       year: 2016
+      
+    - title: <u>Congress:</u> IAUS 379 Dynamical Masses of Local Group Galaxies
+      institution: AIP - Potsdam, Germany
+      year: 2023
+           
+    - title: <u>Congress:</u> EAS 2023
+      institution: Kraków, Poland (Virtual)
+      year: 2023
     
 - title: Meeting
   type: time_table
@@ -33,6 +41,7 @@
     - title: Pristine Group Meeting
       institution: International Space Science Institute ISSI
       year: 2020
+      
        
        
 - title: Workshop
