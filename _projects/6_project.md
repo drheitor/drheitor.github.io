@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Book Reviews
+description: click to find out
 img:
-importance: 4
+importance: 2
 category: fun
 ---
 

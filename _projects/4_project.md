@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Meetings In Ursaminor
+description: Seminars
 img:
 importance: 3
 category: fun
