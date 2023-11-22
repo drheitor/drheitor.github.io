@@ -1,3 +1,10 @@
+- title: Seminars
+  type: time_table
+  contents:
+    - title: <u>Seminar:</u> The Bright Future of the Ground-Based Near-UV spectroscopy for r-rich stars. (Invited Speaker)
+      institution: Stockholm University
+      year: 2023
+
 - title: Congress
   type: time_table
   contents:
@@ -43,6 +50,9 @@
 - title: Meeting
   type: time_table
   contents:
+    - title: CUBES-GTO Meeting
+      institution: INAF-Naples
+      year: 2023
     - title: Pristine Group Meeting
       institution: International Space Science Institute ISSI
       year: 2020
@@ -52,6 +62,9 @@
 - title: Workshop
   type: time_table
   contents:
+    - title: The Milky Way as seen through Neutron-Capture Elements (Invited Speaker)
+      institution: Lund University
+      year: 2023
     - title: The Future of MOS Technologies
       institution: Virtual
       year: 2021

@@ -3,6 +3,7 @@ layout: page
 title: Meetings In Ursaminor
 description: Seminars
 img:
+redirect: https://www.lundobservatory.lu.se
 importance: 3
 category: fun
 ---
