@@ -1,0 +1,107 @@
+- title: Seminars
+  type: time_table
+  contents:
+    - title: <u>Seminar:</u> The Bright Future of the Ground-Based Near-UV spectroscopy for r-rich stars. (Invited Speaker)
+      institution: Stockholm University
+      year: 2023
+
+- title: Congress
+  type: time_table
+  contents:
+    - title: <u>Congress:</u> MIAPbP, Stellar Astrophysics in the era of Gaia, Spectroscopic, and Asteriseismic surveys
+      institution: MIAPbP - Munich, Germany
+      year: 2023
+      
+    - title: <u>Congress:</u> IAUS 379 Dynamical Masses of Local Group Galaxies
+      institution: AIP - Potsdam, Germany
+      year: 2023
+           
+    - title: <u>Congress:</u> EAS 2023
+      institution: Kraków, Poland (Virtual)
+      year: 2023
+      
+    - title: <u>Congress:</u> IAU XXX
+      institution: Universität Wien
+      year: 2018
+      
+    - title: <u>Congress:</u> SAB
+      institution: IAG-USP
+      year: 2018
+      
+    - title: <u>Congress:</u> The Galactic Bulge at the crossroads
+      institution: IAG-USP
+      year: 2018
+      description:
+        - <u>Poster:</u> Terzan 9 a MUSE analysis
+        
+    - title: <u>Congress:</u> SAB
+      institution: IAG-USP
+      year: 2017
+      
+    - title: <u>Congress:</u> Colóquio internacional ASSOS XII
+      institution: IAG-USP
+      year: 2016
+      
+    - title: <u>Congress:</u> Congresso de Física Paulo Leal
+      institution: ICTP-SAIFR
+      year: 2016
+      
+    
+- title: Meeting
+  type: time_table
+  contents:
+    - title: CUBES-GTO Meeting
+      institution: INAF-Naples
+      year: 2024
+    - title: Pristine Group Meeting
+      institution: International Space Science Institute ISSI
+      year: 2020
+      
+       
+       
+- title: Workshop
+  type: time_table
+  contents:
+    - title: The Milky Way as seen through Neutron-Capture Elements (Invited Speaker)
+      institution: Lund University
+      year: 2023
+    - title: The Future of MOS Technologies
+      institution: Virtual
+      year: 2021
+      
+    - title: Neutrino e Astrofísica
+      institution: Institute of Advanced Studies iea-USP
+      year: 2014
+      
+ 
+
+- title: School
+  type: time_table
+  contents:
+    - title: <u>School:</u>   JWST-UFRGS
+      institution: UFRGS
+      year: 2020
+    - title:  Dark Matter and Neutrinos
+      institution: ICTP-SAIFR
+      year: 2018
+    - title: Spectroscopy in Astrophysics and Laboratory Plasmas
+      institution: ICTP-SAIFR
+      year: 2016
+ 
+ 
+ 
+- title: Symposium
+  type: time_table
+  contents:
+  
+    - title: SIICUSP
+      institution: IAG-USP
+      year: 2016
+      description:
+        - <u>Poster:</u> SODIUM-OXYGEN ANTICORRELATION AMONG HORIZONTAL BRANCH STARS IN THE GLOBULAR CLUSTER
+  
+    - title: SIICUSP
+      institution: IAG-USP
+      year: 2015
+      description:
+        - <u>Poster:</u> Abundância de elementos do pico do ferro em aglomerados globulares
