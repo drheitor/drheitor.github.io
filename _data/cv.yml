@@ -2,96 +2,99 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Heitor Ernandes
     - name: Date of Birth
-      value: 14th March 1879
+      value: 07th February 1995
     - name: Languages
-      value: English, German
+      value: English, Portuguese, French
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Universidade de São Paulo, Brazil
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Abundances in field and globular clusters stars of the Galactic bulge.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - <u>Advisor:</u> Beatriz Barbuy
+            - Fellowship from CAPES
+            - <u>(Nominated)</u> CAPES Prize for the best thesis in Physics and Astronomy in 2022
+            
+    - title: Sandwich Ph.D.
+      institution: University of Edinburgh Astronomy
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - title: Abundances in field and globular clusters stars of the Galactic bulge.
+          contents:
+            - <u>Advisor:</u> Chris Evans
+            - Fellowship from CAPES
+            
+    - title: B.Sc.in Physics.
+      institution: Universidade de São Paulo
+      year: 2018
+      
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoc
+      institution: Lund Observatory, Lunds Univertet, Sweden
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - <u>Supervisor:</u> Sofia Feltzing
+        - Fellowship from KAW
+
+    - title: Ph.D. student
+      institution: Universidade de São Paulo, Brazil
+      year: 2018 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - <u>Advisor:</u> Beatriz Barbuy
+        - Fellowship from CAPES
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Ph.D. sutdent
+      institution: University of Edinburgh Astronomy, UK
+      year: 2019 - 2020
       description:
+        - <u>Advisor:</u> Chris Evans
+        - Fellowship from CAPES
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Visiting Faculty
   type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+  contents:  
+    - title: Invited Postdoc at MPIA
+      institution: MPIA, Heidelberg
+      year: 2023 - 2023
+      description:
+        - <u>Supervisor:</u> Maria Bergemann
+        - MPIA
+        
+    - title: Invited student at ESO
+      institution: ESO, Chile
+      year: 2017 - 2017
+      description:
+        - <u>Supervisor:</u> Bruno Dias
+        - Support from ESO
+        
+        
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Galactic Archaeology
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Chemical tagging
+        - Chemodynamics
+    - title: Milky Way
       items:
-        - Description 1.
-        - Description 2.
+        - Bulge
+        - Globular Clusters
+    - title: Nucleosynthesis
+      items:
+        - Ironpeak elements
+        - Heavy elements
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Running , bibliophilism , Play MTG.
