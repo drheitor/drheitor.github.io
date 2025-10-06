@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-09-15 15:59:00-0400
+date: 2015-10-22 15:59:00-0400
 inline: true
+related_posts: false
 ---
 
-Phd at Universidade de São Paulo.
+A simple inline announcement.

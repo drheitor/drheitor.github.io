@@ -1,10 +1,14 @@
 github_users:
-  - drheitor
+  - torvalds
+  - alshedivat
+
+repo_description_lines_max: 2
 
 github_repos:
-  - drheitor/Musetools
-  - drheitor/PFANTtools
-  - drheitor/TurbospectrumSyn
-  - drheitor/VERNE
-  - drheitor/MOSAICsims
-  - drheitor/CUBES
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons

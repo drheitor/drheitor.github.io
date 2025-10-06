@@ -2,27 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.geology.lu.se/heitor-ernandes'>Postdoc</a> at Lunds Universitet.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p><a href='https://www.lu.se/lucat/user/d740df968031d4c9ed49302e775a435f'>Affiliations</a></p>
-    <a href='https://orcid.org/0000-0001-6541-1933'>0000-0001-6541-1933</a>
-    <p>Lund Observatory,</p>
-    <p>Sölvegatan 27,</p>
-    <p>Lund, Sweden</p>
-    
-    
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
-The main focus of my research is the study of how our galaxy formed and evolved using the chemical evolution point of view. More thorough research aims to investigate and distinguish the chemical abundances in various environments, from the dwarf galaxies in the halo to the Galaxy bulge passing through accreted populations.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-As part of the APOGEE and 4MOST, I work studying the Milky Way to define constraints in the galactic regions. As part of the science team of CUBES-VLT and MOSAIC-ELT, I have been developing several simulations to evaluate these instruments' performance in Galactic archaeology.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
