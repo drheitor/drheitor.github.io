@@ -22,7 +22,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-The main focus of my research is the study of how our galaxy formed and evolved using the chemical evolution point of view. More thorough research aims to investigate and distinguish the chemical abundances in various environments, from the dwarf galaxies in the halo to the Galaxy bulge passing through accreted populations.
+I am a postdoctoral researcher at the Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences (CAMK PAN) in Warsaw, Poland, and a Guest Researcher at Lund Observatory, Sweden. Previously, I was a postdoctoral researcher at Lund University. My research focuses on Galactic archaeology, using high precision stellar spectroscopy and chemical abundances to reconstruct the formation and evolution of the Milky Way.
 
-As part of the APOGEE and 4MOST, I work studying the Milky Way to define constraints in the galactic regions. As part of the science team of CUBES-VLT and MOSAIC-ELT, I have been developing several simulations to evaluate these instruments' performance in Galactic archaeology.
-
+My work combines observations, numerical simulations, and methodological developments in stellar spectroscopy, with a particular emphasis on NLTE abundance analysis and large spectroscopic surveys. I am an active member of the 4MOST Consortium and the SELTIC collaboration, and I contribute to the science teams of CUBES and the HRMOS, helping prepare the next generation of facilities that will transform our understanding of the Galaxy.
