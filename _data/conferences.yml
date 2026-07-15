@@ -1,19 +1,20 @@
 - title: Seminars
   type: time_table
   contents:
-    - title: <u>Seminar:</u> GSE star formation history as revealed by detailed elemental abundances. (Invited Speaker)
+  
+    - title: <u>Seminar:</u> GSE star formation history as revealed by detailed elemental abundances. 
       institution: Astronomical Observatory of the University of Warsaw
       year: 2026
 
-    - title: <u>Seminar:</u> GSE star formation history as revealed by detailed elemental abundances. (Invited Speaker)
+    - title: <u>Seminar:</u> GSE star formation history as revealed by detailed elemental abundances. 
       institution: University of Ljubljana
       year: 2024
 
-    - title: <u>Seminar:</u> GSE star formation history as revealed by detailed elemental abundances. (Invited Speaker)
+    - title: <u>Seminar:</u> GSE star formation history as revealed by detailed elemental abundances. 
       institution: INAF-Osservatorio Astronomico di Trieste
       year: 2024
       
-    - title: <u>Seminar:</u> The Bright Future of the Ground-Based Near-UV spectroscopy for r-rich stars. (Invited Speaker)
+    - title: <u>Seminar:</u> The Bright Future of the Ground-Based Near-UV spectroscopy for r-rich stars. 
       institution: Stockholm University
       year: 2023
 
@@ -21,7 +22,7 @@
   type: time_table
   contents:
   
-    - title: <u>Congress:</u> IAU Symposium 395 Stellar Populations in the Milky Way and Beyond, Paraty, Brazil (Talk)
+    - title: <u>Congress:</u> IAU Symposium 395 Stellar Populations in the Milky Way and Beyond, Paraty, Brazil
       year: 2025
     
     - title: <u>Workshop</u> Swedish e-Science Academy and Satellite Meetings, Lund, Sweden
