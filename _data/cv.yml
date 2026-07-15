@@ -38,12 +38,13 @@
 - title: Experience
   type: time_table
   contents:
+  
     - title: Postdoc
-      institution: CAMK-PAN, Poland
-      year: 2025
+      institution: Lund Observatory, Lunds Univertet, Sweden
+      year: 2022
       description:
-        - <u>Supervisor:</u> Rodolfo Smiljanic
-        - DAINA Fellowship Poland Lithuania
+        - <u>Supervisor:</u> Sofia Feltzing
+        - Fellowship from KAW
         
     - title: Postdoc
       institution: Lund Observatory, Lunds Univertet, Sweden
