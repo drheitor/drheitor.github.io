@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.geology.lu.se/heitor-ernandes'>Postdoc</a> at Lunds Universitet.
+subtitle: <a href='https://www.geology.lu.se/heitor-ernandes'>Postdoc</a> at CAMK - PAN.
 
 profile:
   align: right
@@ -23,6 +23,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher at the Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences (CAMK PAN) in Warsaw, Poland, and a Guest Researcher at Lund Observatory, Sweden. Previously, I was a postdoctoral researcher at Lund University. My research focuses on Galactic archaeology, using high precision stellar spectroscopy and chemical abundances to reconstruct the formation and evolution of the Milky Way.
+I am a researcher at the Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences (CAMK PAN) in Warsaw, Poland, and a Guest Researcher at Lund Observatory, Sweden. Previously, I was a postdoctoral researcher at Lund University. My research focuses on Galactic archaeology, using high-precision stellar spectroscopy and chemical abundances to reconstruct the formation and evolution of the Milky Way.
 
-My work combines observations and methodological developments in stellar spectroscopy, with a particular emphasis on elemental abundance analysis, LTE and NLTE, and large spectroscopic surveys. I am an active member of the 4MOST Consortium and the SELTIC collaboration, and I contribute to the science teams of CUBES and the HRMOS, helping prepare the next generation of facilities that will transform our understanding of the Milky Way.
+My work combines observational studies and methodological developments in stellar spectroscopy, with particular emphasis on precision abundance analysis, LTE and NLTE modelling, and large spectroscopic surveys. I am an active member of the 4MOST Consortium and the SELTIC collaboration, and contribute to the science teams of CUBES and HRMOS, helping prepare the next generation of spectroscopic facilities that will advance our understanding of the Milky Way.
