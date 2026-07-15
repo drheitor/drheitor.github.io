@@ -70,18 +70,25 @@
 - title: Visiting Faculty
   type: time_table
   contents:  
+  
+ - title: Invited Postdoc at Lunds Universitet
+    institution: Lunds Universitet
+    year: 2026 - 2026
+    description:
+        - <u>Supervisor:</u> Sofia Feltzing
+        - Lunds Universitet
         
-   - title: Invited Postdoc at University of Florence
-      institution: University of Florence
-      year: 2025 - 2025
-      description:
-        - <u>Supervisor:</u> Ása Skúladóttir
+ - title: Invited Postdoc at University of Florence
+     institution: University of Florence
+     year: 2025 - 2025
+     description:
+        - <u>Supervisor:</u> Asa Skuladottir
         - University of Florence
         
-   - title: Invited Postdoc at University of Ljubljana
-      institution: University of Ljubljana
-      year: 2024 - 2024
-      description:
+  - title: Invited Postdoc at University of Ljubljana
+     institution: University of Ljubljana
+     year: 2024 - 2024
+     description:
         - <u>Supervisor:</u> Gregor Traven
         - University of Ljubljana
         
@@ -96,7 +103,8 @@
       institution: Garching, Munich
       year: 2023 - 2023
       description:
-        - MIAPbP - Stellar Astrophysics in the era of Gaia, Spectroscopic, and Asteroseismic surveys
+        - MIAPbP - Stellar Astrophysics in the era of Gaia, Spectroscopic, and Asteroseismic sur-
+veys
   
     - title: Invited Postdoc at MPIA
       institution: MPIA, Heidelberg
