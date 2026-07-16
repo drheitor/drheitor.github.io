@@ -5,7 +5,7 @@ description: click to find out
 img:
 redirect: https://www.hrmos.eu/
 importance: 2
-category: consortium
+category: Consortium
 ---
 
 Every project has a beautiful feature showcase page.

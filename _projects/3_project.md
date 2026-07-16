@@ -5,7 +5,7 @@ description: ArmazoNes high Dispersion Echelle Spectrograph for ESO-ELT
 img: assets/img/ANDES.png
 redirect: https://elt.eso.org/instrument/ANDES/
 importance: 1
-category: consortium
+category: Consortium
 ---
 
 Every project has a beautiful feature showcase page.
