@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 4MOST
+title: HRMOS
 description: click to find out
 img:
-redirect: https://www.4most.eu/cms/home/
+redirect: https://www.hrmos.eu/
 importance: 2
 category: consortium
 ---
