@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Periodic Table
-description: Just click
-img: assets/img/periodic.jpg
-redirect: https://ptable.com/#Properties
+title: Public talks
+description: Talks
+img:
+redirect: 
 importance: 3
 category: Beyond Research
 ---

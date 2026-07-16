@@ -2,7 +2,7 @@
 layout: page
 title: HRMOS
 description: click to find out
-img:
+img: assets/img/hrmos.png
 redirect: https://www.hrmos.eu/
 importance: 2
 category: Consortium

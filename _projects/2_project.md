@@ -2,7 +2,7 @@
 layout: page
 title: MOSAIC-ESO
 description: Multi-Object Spectrograph for ESO-ELT
-img: assets/img/mosaic.jpg
+img: assets/img/mosaic.png
 redirect: https://elt.eso.org/instrument/MOSAIC/#consortium
 importance: 2
 category: Consortium

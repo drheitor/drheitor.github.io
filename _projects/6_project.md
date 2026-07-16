@@ -2,7 +2,7 @@
 layout: page
 title: 4MOST
 description: click to find out
-img:
+img: assets/img/4most.png
 redirect: https://www.4most.eu/cms/home/
 importance: 2
 category: Consortium
