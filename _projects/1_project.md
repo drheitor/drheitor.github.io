@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h2>cubes-eso</h2>
+title: cubes-eso
 description: Cassegrain U-Band Efficient Spectrograph for VLT
 img: assets/img/cubes.png
 redirect: https://cubes.inaf.it
