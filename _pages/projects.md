@@ -5,7 +5,7 @@ permalink: /projects/
 description: My projects and consortia 
 nav: true
 nav_order: 2
-display_categories: [consortium, fun]
+display_categories: [consortium, Beyond Research]
 horizontal: false
 ---
 

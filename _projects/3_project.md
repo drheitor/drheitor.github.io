@@ -4,7 +4,7 @@ title: ANDES-ESO
 description: ArmazoNes high Dispersion Echelle Spectrograph for ESO-ELT
 img: assets/img/ANDES.png
 redirect: https://elt.eso.org/instrument/ANDES/
-importance: 3
+importance: 1
 category: consortium
 ---
 

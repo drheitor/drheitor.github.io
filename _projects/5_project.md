@@ -5,7 +5,7 @@ description: Just click
 img: assets/img/periodic.jpg
 redirect: https://ptable.com/#Properties
 importance: 3
-category: fun
+category: Beyond Research
 ---
 
 

@@ -5,7 +5,7 @@ description: Seminars
 img:
 redirect: https://www.lundobservatory.lu.se
 importance: 3
-category: fun
+category: Beyond Research
 ---
 
 Every project has a beautiful feature showcase page.
